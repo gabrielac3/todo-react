@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gabrielac3/todo-react.git/static/css/main.f3ab52c0.css",
+    "main.js": "/gabrielac3/todo-react.git/static/js/main.ed6d842c.js",
+    "index.html": "/gabrielac3/todo-react.git/index.html",
+    "main.f3ab52c0.css.map": "/gabrielac3/todo-react.git/static/css/main.f3ab52c0.css.map",
+    "main.ed6d842c.js.map": "/gabrielac3/todo-react.git/static/js/main.ed6d842c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3ab52c0.css",
+    "static/js/main.ed6d842c.js"
+  ]
+}
